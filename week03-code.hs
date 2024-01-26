@@ -1,5 +1,5 @@
 {-
-Name(s): Jerry Onyango, Elsie Okon
+Name(s): Jerry Onyango
 Date: 
 
 CSCI 054 - Fall 2023
