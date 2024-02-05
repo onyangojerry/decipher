@@ -1,12 +1,5 @@
 import Data.Char
 
-{-
-
-Name:Jerry Onyango
-Date:  <09/24/23>
-
--}
-
 -- sanitize
 -- This function takes a list of characters and returns a new list such that all characters other
 -- han blanks and letters have been removed and in which all letters have been shifted to uppercase.
