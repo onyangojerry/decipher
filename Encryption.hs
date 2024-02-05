@@ -2,8 +2,6 @@ import Data.Char
 
 {-
 
-Name(s):  Jerry Onyango
-Date:  Sun Dec 03 2023
 
 -}
 
