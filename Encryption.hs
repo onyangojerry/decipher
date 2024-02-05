@@ -5,9 +5,6 @@ import Data.Char
 Name(s):  Jerry Onyango
 Date:  Sun Dec 03 2023
 
-CSCI 054 - Fall 2023
-Week14 problem set
-
 -}
 
 -- squareMod
