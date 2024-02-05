@@ -1,10 +1,5 @@
 import Data.Char
 
-{-
-
-
--}
-
 -- squareMod
 -- takes two integers, returns the mod of the square of the first integer (remainder) divided by the second
 squareMod :: Integer -> Integer -> Integer
