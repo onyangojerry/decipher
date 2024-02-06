@@ -73,9 +73,9 @@ validate m
 
 
 
-cA :: [[a]] -> a -> [[a]]
+{--cA :: [[a]] -> a -> [[a]]
 cA (x:xs) n = (x++[n]):cA xs n
 cA [] _ = [] 
 
 tD :: Integer -> [Integer] 
-tD n = if n > 0 then tD (n `div` 10) ++ [n `mod` 10] else []
+tD n = if n > 0 then tD (n `div` 10) ++ [n `mod` 10] else []--}
