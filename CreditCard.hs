@@ -1,6 +1,3 @@
-{-
-Name(s): Jerry Onyango, Elsie Okon
-Date: 
 
 --myZip
 -- takes two lists and returns a list of pairs
