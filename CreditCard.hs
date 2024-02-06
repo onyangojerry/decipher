@@ -2,11 +2,6 @@
 Name(s): Jerry Onyango, Elsie Okon
 Date: 
 
-CSCI 054 - Fall 2023
-Week03 problem set
-
--}
-
 --myZip
 -- takes two lists and returns a list of pairs
 myZip :: [a] -> [b] -> [(a,b)]
